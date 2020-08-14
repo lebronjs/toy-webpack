@@ -1,0 +1,26 @@
+{
+  "name": "toy-webpack",
+  "version": "1.0.0",
+  "description": "webpack 基本原理实现玩具版",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebronjs/toy-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebronjs/toy-webpack/issues"
+  },
+  "homepage": "https://github.com/lebronjs/toy-webpack#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/parser": "^7.11.3",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/traverse": "^7.11.0"
+  }
+}
